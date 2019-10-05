@@ -12,7 +12,7 @@
 </div>
 
 
-## Content Progress
+# Content Progress
 
 Now that we've covered much of the backlog of _missing documentation_, we are
 starting to heavily review each section of the site's content to sort and
